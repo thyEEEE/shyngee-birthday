@@ -9,6 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "dt7": "^1.1.0"
+    "dt7": "^1.1.0",
+    "fs": "^0.0.1-security"
   }
 }
